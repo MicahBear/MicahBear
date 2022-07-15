@@ -1,11 +1,11 @@
 ### Hi folks 👋, welcome to my GitHub profile
 ## I'm Micah:
 
-a software developer. I offer a versatile skill-set, including full-stack web development, operations, and production. I am currently focusing on frontend development but I welcome all opportunities to learn.
+a software developer. I offer a versatile skill-set, including full-stack web development, operations, and organic farming production. I am currently focusing on frontend development but I welcome all opportunities to learn.
 
 Connect with me on:
-[LinkedIn](https://www.linkedin.com/in/mbelm/)
-[Twitter](https://twitter.com/MicahBElm)
+````[LinkedIn](https://www.linkedin.com/in/mbelm/)
+````[Twitter](https://twitter.com/MicahBElm)
 
 
 
