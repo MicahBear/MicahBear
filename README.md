@@ -4,8 +4,12 @@
 a software developer. I offer a versatile skill-set, including full-stack web development, operations, and organic farming production. I am currently focusing on frontend development but I welcome all opportunities to learn.
 
 Connect with me on:
-    *[LinkedIn](https://www.linkedin.com/in/mbelm/)
-    *[Twitter](https://twitter.com/MicahBElm)
+<ul>
+   <li>[LinkedIn](https://www.linkedin.com/in/mbelm/)</li>
+   <li>[Twitter](https://twitter.com/MicahBElm)</li>
+</ul>
+     
+    
 
 
 
