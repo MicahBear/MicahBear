@@ -5,8 +5,8 @@ a software developer. I offer a versatile skill-set, including full-stack web de
 
 Connect with me on:
 <ul>
-   <li>[LinkedIn](https://www.linkedin.com/in/mbelm/)</li>
-   <li>[Twitter](https://twitter.com/MicahBElm)</li>
+   <li><a href="https://www.linkedin.com/in/mbelm/"> LinkedIn</a></li>
+   <li><a href ="https://twitter.com/MicahBElm"> Twitter</a></li>
 </ul>
      
     
