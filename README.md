@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi folks 👋, welcome to my GitHub profile
+## I'm Micah:
+
+a software developer. I offer a versatile skill-set, including full-stack web development, operations, and production. I am currently focusing on frontend development but I welcome all opportunities to learn.
+
+Connect with me on:
+[LinkedIn](https://www.linkedin.com/in/mbelm/)
+[Twitter](https://twitter.com/MicahBElm)
+
+
+
 
 <!--
 **MicahBear/MicahBear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
 -->
