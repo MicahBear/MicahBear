@@ -1,8 +1,7 @@
 ### Hi folks 👋, welcome to my GitHub profile
 ## I'm Micah:
 
-a software developer. I offer a versatile skill-set, including full-stack web development, operations, and organic farming production. I am currently focusing on frontend development but I welcome all opportunities to learn.
-
+I am a Software Engineer who is self/community taught, with a passion for building products that empower people. As a former farmer my love of growing and providing for my community is with me when I create and collaborate. It is absolute joy forming a team and an environment together with a common goal to accomplish.
 Connect with me on:
 <ul>
    <li><a href="https://www.linkedin.com/in/mbelm/"> LinkedIn</a></li>
