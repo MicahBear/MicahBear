@@ -2,7 +2,11 @@
 ## I'm Micah:
 
 I am a Software Engineer, with a passion for building products that empower people. As a former farmer my love of growing and providing for my community is with me when I create and collaborate. It is absolute joy forming a team and an environment together with a common goal to accomplish.
-Connect with me on:
+
+🔭 I’m currently working on Thumb : personal gardening tracker
+
+
+📫 How to reach me: 
 <ul>
    <li><a href="https://www.linkedin.com/in/mbelm/"> LinkedIn</a></li>
    <li><a href ="https://twitter.com/MicahBElm"> Twitter</a></li>
