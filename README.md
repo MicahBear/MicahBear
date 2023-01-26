@@ -1,7 +1,7 @@
 ### Hi folks 👋, welcome to my GitHub profile
 ## I'm Micah:
 
-I am a Software Engineer, with a passion for building products that empower people. As a former farmer my love of growing and providing for my community is with me when I create and collaborate. It is absolute joy forming a team and an environment together with a common goal to accomplish.
+I am a Software Engineer who is self/community taught and passionate about building products and systems that empower people and improve their environment. My love of growing food and providing for my community is with me when I create and collaborate.
 
 🔭 I’m currently working on Thumb : personal gardening tracker
 
