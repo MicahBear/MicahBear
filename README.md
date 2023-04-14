@@ -4,6 +4,7 @@
 I am a Software Engineer who is self/community taught and passionate about building products and systems that empower people and improve their environment. My love of growing food and providing for my community is with me when I create and collaborate.
 
 🔭 I’m currently working on Thumb : personal gardening tracker
+🌱 I’m currently learning C# and .NET
 
 
 📫 How to reach me: 
