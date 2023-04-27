@@ -5,7 +5,7 @@ I am a Software Engineer who is self/community taught and passionate about build
 
 🔭 I’m currently working on Thumb : personal gardening tracker
 <br/>
-🌱 I’m currently learning C# and .NET
+🌱 I’m currently playing and experimenting with Docker and AWS
 
 
 📫 How to reach me: 
