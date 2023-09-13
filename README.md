@@ -3,11 +3,6 @@
 
 I am a Software Engineer who is self/community taught and passionate about building products and systems that empower people and improve their environment. My love of growing food and providing for my community is with me when I create and collaborate.
 
-🔭 I’m currently working on Thumb : personal gardening tracker
-<br/>
-🌱 I’m currently playing and experimenting with Docker and AWS
-
-
 📫 How to reach me: 
 <ul>
    <li><a href="https://www.linkedin.com/in/mbelm/"> LinkedIn</a></li>
